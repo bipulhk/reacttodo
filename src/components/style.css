@@ -1,0 +1,9 @@
+.body{
+    margin: 0;
+}
+.header{
+    background-color: royalblue;
+    font-size: 100px;
+    color: brown;
+    text-align: center;
+}

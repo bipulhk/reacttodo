@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: royalblue;
+    font-size: 100px;
+    color: brown;
+    text-align: center;
+}
+
+.todoform{
+    width: 100%;
+    margin: auto;
+}
+
+.todoinput{
+    height: 50px;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.todobutton{
+    font-size: x-large;
+    width: 100%;
+    border: none;
+    height: 50px;
+    background-color: tomato;
+    color: wheat;
+    margin-top: 10px;
+}
+
+.todoitem{
+    margin: auto;
+    border: 2px solid whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+    color:blue;
+}
+
+.deletebutton{
+    background-color:#052e09 ;
+    border: none;
+    font-size: 20px;
+    color: #0afc26;
+}
+
+.todoname{
+    color: #db7a18;
+}
